@@ -1,3 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://www.wordunsilenced.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Word Unsilenced"
+theme = "hugo-theme-massively"
