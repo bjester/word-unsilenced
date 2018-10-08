@@ -32,5 +32,3 @@ fields:
 - type: file
   name: image
   label: Image
-pages:
-- content/test.md
