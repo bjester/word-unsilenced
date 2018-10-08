@@ -2,7 +2,6 @@
 categories = []
 date = "2018-10-08T13:26:54-07:00"
 description = "Discover the purpose of Word Unsilenced and its role to come."
-draft = true
 image = "/uploads/lake-tahoe-1.JPG"
 slug = "what-is-word-unsilenced"
 tags = []
