@@ -3,12 +3,12 @@
 image: "registry.gitlab.com/bjester/word-unsilenced"
 
 stages:
-#  - build
+  - build
   - deploy
 
-#job build:
-#  stage: build
-#  script: npm install
+job build:
+  stage: build
+  script: hugo
 
 job deploy:
   stage: deploy
