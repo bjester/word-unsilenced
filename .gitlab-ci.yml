@@ -3,15 +3,15 @@
 image: "registry.gitlab.com/bjester/word-unsilenced"
 
 stages:
-  - build
+#  - build
   - deploy
 
-job build:
-  stage: build
-  script: npm install
+#job build:
+#  stage: build
+#  script: npm install
 
 job deploy:
   stage: deploy
-  script: npx firebase deploy --non-interactive --token ${FIREBASE_TOKEN}
+  script: firebase deploy --non-interactive --token ${FIREBASE_TOKEN}
 
 
