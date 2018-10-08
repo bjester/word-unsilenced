@@ -1,11 +1,13 @@
 +++
-categories = ["test"]
+categories = []
 content = "This is the test content"
 date = "2018-10-08T12:49:31-07:00"
-description = "This is a test post"
+description = "Discover the purpose of Word Unsilenced and its role to come."
 draft = true
-slug = "test"
-title = "Test"
+image = ""
+slug = "what-is-word-unsilenced"
+tags = ["bible"]
+title = "What is Word Unsilenced?"
 
 +++
 This is the real content
