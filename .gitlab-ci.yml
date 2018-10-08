@@ -2,6 +2,9 @@
 # Full project: https://gitlab.com/pages/hugo
 image: "registry.gitlab.com/bjester/word-unsilenced"
 
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
+
 stages:
   - build
   - deploy
