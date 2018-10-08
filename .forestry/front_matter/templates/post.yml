@@ -8,6 +8,11 @@ fields:
   label: Title
   config:
     required: true
+- type: textarea
+  name: description
+  label: Description
+  config:
+    required: true
 - type: text
   label: Slug
   name: slug
@@ -21,18 +26,11 @@ fields:
 - type: tag_list
   name: categories
   label: Categories
-- type: textarea
-  name: description
-  label: Description
-  config:
-    required: true
-- type: textarea
-  label: Content
-  name: content
-  config:
-    required: true
-    wysiwyg: true
-    schema:
-      format: markdown
+- type: tag_list
+  name: tags
+  label: Tags
+- type: file
+  name: image
+  label: Image
 pages:
 - content/test.md
