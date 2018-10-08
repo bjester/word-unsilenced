@@ -12,8 +12,7 @@ There exists a saying that "silence is golden." Being a quiet person, I've alway
 
 ## In the Beginning
 
-> In the beginning was the Word, and the Word was with God, and the Word was God. He was with God in the beginning. Through him all things were made; without him nothing was made that has been made. In him was life, and that life was the light of all mankind. The light shines in the darkness, and the darkness has not overcome it.
->
+> In the beginning was the Word, and the Word was with God, and the Word was God. He was with God in the beginning. Through him all things were made; without him nothing was made that has been made. In him was life, and that life was the light of all mankind. The light shines in the darkness, and the darkness has not overcome it.  
 > _John 1:1-5 NIV_
 
 Listening, although, doesn't seem to  seems to require a response which would be somewhat in contrast with the saying that silence is golden. 
