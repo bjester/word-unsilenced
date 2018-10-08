@@ -2,3 +2,8 @@ baseURL = "https://www.wordunsilenced.com/"
 languageCode = "en-us"
 title = "Word Unsilenced"
 theme = "hugo-theme-massively"
+googleanalytics = "UA-17735969-3"
+
+[languages]
+[languages.en]
+  languageName = "English"
