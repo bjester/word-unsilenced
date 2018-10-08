@@ -8,3 +8,4 @@ slug = "test"
 title = "Test"
 
 +++
+This is the real content
