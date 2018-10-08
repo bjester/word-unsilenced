@@ -1,0 +1,36 @@
+---
+label: Post
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: text
+  label: Slug
+  name: slug
+  config:
+    required: true
+- type: datetime
+  name: date
+  label: Date
+  config:
+    required: true
+- type: tag_list
+  name: categories
+  label: Categories
+- type: textarea
+  name: description
+  label: Description
+  config:
+    required: true
+- type: textarea
+  label: Content
+  name: content
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: markdown
