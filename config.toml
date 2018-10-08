@@ -4,6 +4,10 @@ title = "Word Unsilenced"
 theme = "hugo-theme-massively"
 googleanalytics = "UA-17735969-3"
 
+[author]
+    name = "Blaine Jester"
+    homepage = "http://www.blainejester.com/"
+
 [languages]
 [languages.en]
   languageName = "English"

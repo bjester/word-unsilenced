@@ -9,6 +9,9 @@ stages:
 job build:
   stage: build
   script: hugo
+  artifacts:
+    paths:
+      - public
 
 job deploy:
   stage: deploy
