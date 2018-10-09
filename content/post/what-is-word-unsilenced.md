@@ -36,14 +36,10 @@ In the beginning, when the spirit of God hovered over the earth that was "withou
 
 But then something happened which let chaos, death, and destruction, back into the world. God could have spoken that chaos out of existence, but it had become intertwined with the creation that He loved: mankind. So He spoke differently. He spoke into mankind as a loving Father. He spoke a plan to bring an end to the chaos. He spoke a plan that would save us from it as long as we heard and believed. He spoke Himself into mankind as Jesus, God's Word incarnate. The remarkable thing is that in all of this imagery of God speaking and God's Word becoming flesh, Jesus needed to be silent. He endured the chaos, death, and destruction without speaking against it.
 
-> He was oppressed and afflicted,
->
-> yet he did not open his mouth;
->
-> he was led like a lamb to the slaughter,
->
-> and as a sheep before its shearers is silent,
->
+> He was oppressed and afflicted,  
+> yet he did not open his mouth;  
+> he was led like a lamb to the slaughter,  
+> and as a sheep before its shearers is silent,  
 > so he did not open his mouth.
 >
 > Isaiah 53:7 NIV
@@ -52,34 +48,20 @@ But then something happened which let chaos, death, and destruction, back into t
 
 So what is Word Unsilenced? Well it's the name I chose for this blog, but why did I choose it? I chose it because Jesus _is_ the Word Unsilenced. God has spoken into our lives through Jesus and while Jesus needed to be silent, His message is one that He has commissioned us to carry on. So until Jesus comes again to be unleashed, or perhaps unsilenced, upon the chaos to end it once and for all, we the church, the followers of Christ, are the ones who need to speak up. We've been given the gift of the Holy Spirit enable that.
 
-> And it shall come to pass afterward
->
-> That I will pour out My Spirit on all flesh;
->
-> Your sons and your daughters shall prophesy,
->
-> Your old men shall dream dreams,
->
-> Your young men shall see visions.
->
-> And also on My menservants and on My maidservants
->
-> I will pour out My Spirit in those days.
->
-> And I will show wonders in the heavens and in the earth:
->
-> Blood and fire and pillars of smoke.
->
-> The sun shall be turned into darkness,
->
-> And the moon into blood,
->
-> Before the coming of the great and awesome day of the Lord.
->
-> And it shall come to pass
->
-> That whoever calls on the name of the Lord
->
+> And it shall come to pass afterward  
+> That I will pour out My Spirit on all flesh;  
+> Your sons and your daughters shall prophesy,  
+> Your old men shall dream dreams,  
+> Your young men shall see visions.  
+> And also on My menservants and on My maidservants  
+> I will pour out My Spirit in those days.  
+> And I will show wonders in the heavens and in the earth:  
+> Blood and fire and pillars of smoke.  
+> The sun shall be turned into darkness,  
+> And the moon into blood,  
+> Before the coming of the great and awesome day of the Lord.  
+> And it shall come to pass  
+> That whoever calls on the name of the Lord  
 > Shall be saved.
 >
 > Joel 2:28-32 NKJV and Acts 2:17-21 NKJV
