@@ -6,7 +6,6 @@ image = "/uploads/banff-lake-agnes.jpg"
 slug = "what-is-word-unsilenced"
 tags = ["bible"]
 title = "What is Word Unsilenced?"
-author = "Blaine Jester"
 
 +++
 There's a saying that _silence is golden_. Being a quiet person, I've always found it to be an interesting phrase that almost encouraged my reserved nature. The phrase seems to position the act of being silent as a virtue that is at odds with speech, or perhaps just speaking too much. In the Bible, often referred to as God's Word, we've received a message that is by its very description God-breathed ([2 Timothy 3:16](https://www.biblegateway.com/passage/?search=2+Timothy+3%3A16-17&version=NIV "2 Timothy 3:16")). God's divine transmission reached the hearts and minds of the writers of the books in the Bible, and they were not silent with what they received. The result is that God's spirit lives within scripture and by the moving of the Holy Spirit within us, the Word is anything but silent.
