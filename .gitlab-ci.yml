@@ -5,19 +5,19 @@ image: "registry.gitlab.com/bjester/word-unsilenced"
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
 
-stages:
-  - build
-  - deploy
-
-job build:
-  stage: build
-  script: hugo
-  artifacts:
-    paths:
-      - public
-
-job deploy:
-  stage: deploy
-  script: firebase deploy --non-interactive --token ${FIREBASE_TOKEN}
+#stages:
+#  - build
+#  - deploy
+#
+#job build:
+#  stage: build
+#  script: hugo
+#  artifacts:
+#    paths:
+#      - public
+#
+#job deploy:
+#  stage: deploy
+#  script: firebase deploy --non-interactive --token ${FIREBASE_TOKEN}
 
 
