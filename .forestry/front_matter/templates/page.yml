@@ -8,3 +8,5 @@ fields:
   name: title
   config:
     required: true
+pages:
+- content/comment-policy.md
