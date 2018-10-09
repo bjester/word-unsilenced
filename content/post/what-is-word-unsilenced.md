@@ -31,6 +31,10 @@ For myself, I really needed _input_ silence. It's in those times that I'm learni
 
 My first action, as I struggled with my racing thoughts, was to voice how upset I was, hoping that would enable me to sleep. I didn't sleep very well. My second action was one of silence. I stopped responding to text messages. I isolated myself in silence. That silence, although, was _output_ silence. I feel confident in describing that silence as anything but golden; more like rusty, irritating, and more likely to give you tetanus. I unwillingly broke that silence by reminding myself of the type of person who I believed myself to be, through the feeling that I needed to honor my word and follow through. I joined my friend, the groom, on a trip to a mine to quarry for a quartz crystal containing black tourmaline. I really didn't speak much, but there was great healing in the trip and reminder that my thoughts are sometimes influenced by the chaos around me.
 
+This experience reset me. I came to realize that while I was isolated, I was letting things get between me and my faith. When I came to read the words of John 1 this morning, with an open heart and a clear mind, believing in the silence that surrounded me, I felt true rest. I also decided to create this blog, because in that moment, God's Word burned within me. I found myself, not in an entirely unfamiliar place, scrambling through scripture connecting dots, finding some strange truth in all of it. 
+
+In the beginning, when the spirit of God hovered over the earth that was "without form, and void" (Genesis 1:2), I believe it describes a chaotic place. A place with maximum entropy. Since I was little, I've always imagined those verses describing a silent place. But how could it possibly have been silent be when all the matter and energy of the cosmos suddenly burst into being, without form or purpose? I know imagine it as a traumatic and chaotic place that was anything but silent. That is, until God spoke, and the Word of God formed the world instantly silencing the chaos, reducing its entropy, bringing order and life.
+
 The remarkable thing is that Jesus needed to be silent.
 
 Don't let go of your 
