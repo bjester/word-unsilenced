@@ -12,14 +12,16 @@ There's a saying that "silence is golden." Being a quiet person, I've always fou
 
 ## In the Beginning
 
-> In the beginning was the Word, and the Word was with God, and the Word was God. He was with God in the beginning. Through him all things were made; without him nothing was made that has been made. In him was life, and that life was the light of all mankind. The light shines in the darkness, and the darkness has not overcome it.  
+> In the beginning was the Word, and the Word was with God, and the Word was God. He was with God in the beginning. Through him all things were made; without him nothing was made that has been made. In him was life, and that life was the light of all mankind. The light shines in the darkness, and the darkness has not overcome it.
+>
 > _John 1:1-5 NIV_
 
 The beginning of the gospel of John is reminiscent of the very beginning in Genesis. God spoke creation into existence and His Word, that became flesh ([John 1:14](https://www.biblegateway.com/passage/?search=John+1%3A14&version=NIV "John 1:14")), existed long before it walked the earth in human form. Thinking very literally for a second, if the Word became flesh as Jesus, a literal manifestation of God, that spoke with authority as the Son of God, does that mean silence prevailed before the Word became flesh? A quick response would be _no,_ since we have what we deem the Word of God chronologically prior to Jesus that was God-breathed into prophets and writers of the Old Testament. Of course, Genesis also says that the cosmos was spoken into existence so, no, it doesn't seem that God was silent.
 
 The striking takeaway is that it _must_ mean that God isn't silent now. For if God was not silent before Jesus, as demonstrated by the preparation for Jesus through prophecy, and Jesus being the Word become flesh, the rebuttal to death's persuasion, then why would God be silent now? In fact, we have been given the gift of the Holy Spirit ([Acts 2:38](https://www.biblegateway.com/passage/?search=Acts+2%3A38&version=NIV "Acts 2:38")) and it moves within us as we read God's Word. The story has been told and we have been thoroughly prepared by it ([2 Timothy 3:17](https://www.biblegateway.com/passage/?search=2+Timothy+3%3A16-17&version=NIV "2 Timothy 3:17")). We can find revelation scripture.
 
-> They asked each other, "Were not our hearts burning within us while he talked with us on the road and opened the Scriptures to us?"  
+> They asked each other, "Were not our hearts burning within us while he talked with us on the road and opened the Scriptures to us?"
+>
 > _Luke 24:32 NIV_
 
 ## The Need for Silence
