@@ -42,5 +42,3 @@ fields:
 - type: file
   name: image
   label: Image
-pages:
-- content/post/what-is-word-unsilenced.md
