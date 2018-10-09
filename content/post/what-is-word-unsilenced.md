@@ -17,7 +17,7 @@ There's a saying that "silence is golden." Being a quiet person, I've always fou
 
 The beginning of the gospel of John is reminiscent of the very beginning in Genesis. God spoke creation into existence and His Word, that became flesh ([John 1:14](https://www.biblegateway.com/passage/?search=John+1%3A14&version=NIV "John 1:14")), existed long before it walked the earth in human form. Thinking very literally for a second, if the Word became flesh as Jesus, a literal manifestation of God, that spoke with authority as the Son of God, does that mean silence prevailed before the Word became flesh? A quick response would be _no,_ since we have what we deem the Word of God chronologically prior to Jesus that was God-breathed into prophets and writers of the Old Testament. Of course, Genesis also says that the cosmos was spoken into existence so, no, it doesn't seem that God was silent.
 
-The striking takeaway is that it _must_ mean that God isn't silent now. For if God was not silent before Jesus, as demonstrated by the preparation for Jesus through prophecy, and Jesus being the Word become flesh, the rebuttal to death's persuasion, then why would God be silent now? In fact, we have been given the gift of the Holy Spirit ([Acts 2:38](https://www.biblegateway.com/passage/?search=Acts+2%3A38&version=NIV "Acts 2:38")) and it moves within us as we read God's Word. The story has been told and we have been thoroughly prepared by it ([2 Timothy 3:17]()). We can find revelation scripture.
+The striking takeaway is that it _must_ mean that God isn't silent now. For if God was not silent before Jesus, as demonstrated by the preparation for Jesus through prophecy, and Jesus being the Word become flesh, the rebuttal to death's persuasion, then why would God be silent now? In fact, we have been given the gift of the Holy Spirit ([Acts 2:38](https://www.biblegateway.com/passage/?search=Acts+2%3A38&version=NIV "Acts 2:38")) and it moves within us as we read God's Word. The story has been told and we have been thoroughly prepared by it ([2 Timothy 3:17](https://www.biblegateway.com/passage/?search=2+Timothy+3%3A16-17&version=NIV "2 Timothy 3:17")). We can find revelation scripture.
 
 > They asked each other, "Were not our hearts burning within us while he talked with us on the road and opened the Scriptures to us?"  
 > _Luke 24:32 NIV_
@@ -32,9 +32,9 @@ My first action, as I struggled with my racing thoughts, was to voice how upset 
 
 This experience reset me. I came to realize that while I was isolated, I was letting things get between me and my faith once again. When I came to read the words of John 1 this morning, with an open heart and a clear mind, believing in the silence that surrounded me, I felt true rest. I also decided to create this blog, because in that moment, God's Word burned within me. I found myself, not in an entirely unfamiliar place, scrambling through scripture connecting dots, finding some strange truth in all of it.
 
-In the beginning, when the spirit of God hovered over the earth that was "without form, and void" (Genesis 1:2), I believe it describes a chaotic place. A place with maximum entropy. Since I was little, I've always imagined those verses describing a silent place. But how could it possibly have been silent when all the matter and energy of the cosmos suddenly burst into being, without form or purpose? I now imagine it as a traumatic and chaotic place that was anything but silent. It was chaos until God spoke, and the Word of God formed the world, instantly silencing the chaos, reducing its entropy, bringing order and life.
+In the beginning, when the spirit of God hovered over the earth that was "without form, and void" (Genesis 1:2), I believe it describes a chaotic place. A place with maximum entropy. Ever since I was little, I've always imagined those verses describing a silent place. But how could it possibly have been silent when all the matter and energy of the cosmos suddenly burst into being, without form or purpose? I now imagine it as a traumatic and chaotic place that was anything but silent. It was chaos until God spoke, and the Word of God formed the world, instantly silencing the chaos, reducing its entropy, bringing order and life.
 
-But then something happened which let chaos, death, and destruction, back into the world. God could have spoken that chaos out of existence, but it became intertwined with the creation that He loved: mankind. So He spoke differently. He spoke into mankind as a loving Father. He spoke a plan to bring an end to the chaos. He spoke a plan that would save us from it as long as we heard and believed. He spoke Himself into mankind as Jesus, God's Word incarnate. The remarkable thing is that in all of this imagery of God speaking and God's Word becoming flesh, Jesus needed to be silent. He endured the chaos, death, and destruction without speaking against it
+But then something happened which let chaos, death, and destruction, back into the world. God could have spoken that chaos out of existence, but it had become intertwined with the creation that He loved: mankind. So He spoke differently. He spoke into mankind as a loving Father. He spoke a plan to bring an end to the chaos. He spoke a plan that would save us from it as long as we heard and believed. He spoke Himself into mankind as Jesus, God's Word incarnate. The remarkable thing is that in all of this imagery of God speaking and God's Word becoming flesh, Jesus needed to be silent. He endured the chaos, death, and destruction without speaking against it.
 
 > He was oppressed and afflicted,
 >
@@ -50,12 +50,46 @@ But then something happened which let chaos, death, and destruction, back into t
 
 ## What is Word Unsilenced?
 
-So what is Word Unsilenced? Well it's the name I chose for this blog, but why did I choose it? I chose it because Jesus _is_ the Word Unsilenced. God has spoken into our lives through Jesus and while Jesus needed to be silent, He told us to be a voice for Him. In this chaotic world, the church, the followers of Jesus, are the mechanism that will enable the silence that will put an end to the chaos. The world will continue to grow chaotic and disturbing, but we will
+So what is Word Unsilenced? Well it's the name I chose for this blog, but why did I choose it? I chose it because Jesus _is_ the Word Unsilenced. God has spoken into our lives through Jesus and while Jesus needed to be silent, His message is one that He has commissioned us to carry on. So until Jesus comes again to be unleashed, or perhaps unsilenced, upon the chaos to end it once and for all, we the church, the followers of Christ, are the ones who need to speak up. We've been given the gift of the Holy Spirit enable that.
 
-Don't let go of your
+> And it shall come to pass afterward
+>
+> That I will pour out My Spirit on all flesh;
+>
+> Your sons and your daughters shall prophesy,
+>
+> Your old men shall dream dreams,
+>
+> Your young men shall see visions.
+>
+> And also on My menservants and on My maidservants
+>
+> I will pour out My Spirit in those days.
+>
+> And I will show wonders in the heavens and in the earth:
+>
+> Blood and fire and pillars of smoke.
+>
+> The sun shall be turned into darkness,
+>
+> And the moon into blood,
+>
+> Before the coming of the great and awesome day of the Lord.
+>
+> And it shall come to pass
+>
+> That whoever calls on the name of the Lord
+>
+> Shall be saved.
+>
+> Joel 2:28-32 NKJV and Acts 2:17-21 NKJV
 
-Looking at that from a logical perspective, if Jesus  You could certainly say that Jesus, prior to walking on the earth as a man, was silent.
+How could we be silent if God has poured out His Spirit upon us?
 
-Listening, although, doesn't seem to  seems to require a response which would be somewhat in contrast with the saying that silence is golden.
+> For we did not follow cunningly devised fables when we made known to you the power and coming of our Lord Jesus Christ, but were eyewitnesses of His majesty. For He received from God the Father honor and glory when such a voice came to Him from the Excellent Glory: “This is My beloved Son, in whom I am well pleased.” And we heard this voice which came from heaven when we were with Him on the holy mountain.
+>
+> And so we have the prophetic word confirmed, which you do well to heed as a light that shines in a dark place, until the day dawns and the morning star rises in your hearts; knowing this first, that no prophecy of Scripture is of any private interpretation, for prophecy never came by the will of man, but holy men of God spoke as they were moved by the Holy Spirit.
+>
+> 2 Peter 1:16-21 NKJV
 
-The ability to be a great listener is certainly something that is valued in relationships of all kinds.
+It is with that conviction that I have started this blog. Should I find my self reveling in the Word, feeling the Holy Spirit stirring in its revelation, I will no longer hold back from sharing because that silence is treacherous. If only one person should read what I write, then that is sufficient to fulfill the purpose of this blog. I cannot keep silent to what whispers above the chaos. I will battle my flesh, my reserved and quiet nature, to echo the words, interpretation, and perspective that comes upon my heart. That is my commitment.
