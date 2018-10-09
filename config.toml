@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Word Unsilenced"
 theme = "hugo-theme-massively"
 googleanalytics = "UA-17735969-3"
+disqusShortname = "word-unsilenced"
 
 [author]
     name = "Blaine Jester"
