@@ -8,6 +8,16 @@ fields:
   label: Title
   config:
     required: true
+- type: select
+  config:
+    source:
+      type: simple
+    options:
+    - Blaine Jester
+    - Christian Alvarez
+  label: Author
+  name: author
+  default: Blaine Jester
 - type: textarea
   name: description
   label: Description
