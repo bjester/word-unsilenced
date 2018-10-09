@@ -2,7 +2,6 @@
 categories = []
 date = "2018-10-08T13:26:54-07:00"
 description = "Discover the purpose of Word Unsilenced and its role to come."
-draft = true
 image = "/uploads/banff-lake-agnes.jpg"
 slug = "what-is-word-unsilenced"
 tags = ["bible"]
@@ -36,6 +35,21 @@ This experience reset me. I came to realize that while I was isolated, I was let
 In the beginning, when the spirit of God hovered over the earth that was "without form, and void" (Genesis 1:2), I believe it describes a chaotic place. A place with maximum entropy. Since I was little, I've always imagined those verses describing a silent place. But how could it possibly have been silent when all the matter and energy of the cosmos suddenly burst into being, without form or purpose? I now imagine it as a traumatic and chaotic place that was anything but silent. It was chaos until God spoke, and the Word of God formed the world, instantly silencing the chaos, reducing its entropy, bringing order and life.
 
 But then something happened which let chaos, death, and destruction, back into the world. God could have spoken that chaos out of existence, but it became intertwined with the creation that He loved: mankind. So He spoke differently. He spoke into mankind as a loving Father. He spoke a plan to bring an end to the chaos. He spoke a plan that would save us from it as long as we heard and believed. He spoke Himself into mankind as Jesus, God's Word incarnate. The remarkable thing is that in all of this imagery of God speaking and God's Word becoming flesh, Jesus needed to be silent. He endured the chaos, death, and destruction without speaking against it
+
+> He was oppressed and afflicted,
+>
+>     yet he did not open his mouth;
+>
+> he was led like a lamb to the slaughter,
+>
+>     and as a sheep before its shearers is silent,
+>
+>     so he did not open his mouth.  
+> Isaiah 53:7 NIV
+
+## What is Word Unsilenced?
+
+So what is Word Unsilenced? Well it's the name I chose for this blog, but why did I choose it? I chose it because Jesus _is_ the Word Unsilenced. God has spoken into our lives through Jesus and while Jesus needed to be silent, He told us to be a voice for Him. In this chaotic world, the church, the followers of Jesus, are the mechanism that will enable the silence that will put an end to the chaos. The world will continue to grow chaotic and disturbing, but we will 
 
 Don't let go of your 
 
