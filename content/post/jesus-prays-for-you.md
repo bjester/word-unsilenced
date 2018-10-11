@@ -25,3 +25,5 @@ To say the least, I didn't really understand what was happening. Prior to becomi
 With all of it mounting upon me, I felt my faith starting to become threatened. It was at that time that I started to seek God. Over the past year, not only had my career grown, but so had my faith. I was not alone in feeling that in my church, things were moving and God's hand was building something in the church. My situation was no secret to my friends and family. A friend of mine suggested I listen to a podcast of Erwin McManus speaking on the story of Jesus walking on water.
 
 ## The Boat
+
+The Erwin McManus podcast had some good perspective. Despite that, I felt there was some missed opportunity to incorporate more of scripture in his talk. Growing up in christian schools, memorizing a bible verse nearly every week, scripture has stuck with my, but really only its truth. The memory of verses come to mind as I hear the truth of them retold, but their location and the exact words don't. So I decided to do some digging and connect some of that truth for myself.
