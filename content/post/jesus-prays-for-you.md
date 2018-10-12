@@ -57,4 +57,29 @@ Jesus is saying that Satan has asked for _all_ of the disciples, not just Peter,
 
 The personal essence of that interaction in Luke is something I never really felt until I was seeking Him in my decision to quit. How comforting it is to know Jesus is praying for you personally. When He has already done so much for us, He is praying for you and me "at the right hand of God," making "intercession" for both you and me. It shows prayer's true power. Afterwards, when our will to follow him in faith is strengthened and we get out of the boat to return to him, we’re demonstrating faith and Jesus’ will for our lives; to return to him endlessly despite the weather. Lastly, we can’t forget that when that’s done, Jesus has said we will strengthen our brethren.
 
-Peter getting out of the safety of the boat, to join Jesus walking on water, must have seemed absolutely crazy to the other disciples in the boat. On the other hand, when Peter started to make his way out to Jesus, how genuinely powerful it must have been to witness that act of faith. I can only imagine how much that strengthened their faith. Even so, Peter almost drowned! It wasn't a perfect attempt by Peter, because nothing we do ever is. Yet, here I am, reading about this story, feeling absolutely strengthened that Jesus prays for me, that there are times when I will feel I'm stuck in a boat in a storm, and that if I return to Him, I'll make it through.
+Peter getting out of the safety of the boat, to join Jesus walking on water, must have seemed absolutely crazy to the other disciples in the boat. On the other hand, when Peter started to make his way out to Jesus, how genuinely powerful it must have been to witness that act of faith. I can only imagine how much that strengthened their faith. Even so, Peter almost drowned! It wasn't a perfect attempt by Peter, because nothing we do ever is. Yet, here I am, reading about this story, feeling absolutely strengthened that Jesus prays for me, that there are times when I will feel I'm stuck in a boat in a storm, but I can always return to Him and make it through.
+
+> Therefore we also, since we are surrounded by so great a cloud of witnesses, let us lay aside every weight, and the sin which so easily ensnares _us,_ and let us run with endurance the race that is set before us, looking unto Jesus, the author and finisher of _our_ faith, who for the joy that was set before Him endured the cross, despising the shame, and has sat down at the right hand of the throne of God.
+>
+> Hebrews 12:1-2 NKJV
+
+I now recognize more than ever that my faith is what will what will endure if I put my focus on Christ, the "author and finisher" of my faith. I did decide to quit my job, a weight that I felt was preventing me from growing my faith, or perhaps just my comfy boat. I stepped in faith into a period of my life where many of my hopes, dreams, and goals were erased to make room for something God wanted for my life. It's been a few months since then, and I can say it hasn't been easy still, but I know that He is provisioning something for me. I know that because He already has.
+
+> So do not throw away your confidence; it will be richly rewarded. You need to persevere so that when you have done the will of God, you will receive what he has promised. For,
+>
+> ‘In just a little while,
+>
+>     he who is coming will come
+>
+>     and will not delay.’
+>
+> And,
+>
+> ‘But my righteous one will live by faith.
+>
+>     And I take no pleasure
+>
+>     in the one who shrinks back.’
+>
+> But we do not belong to those who shrink back and are destroyed, but to those who have faith and are saved.  
+> Hebrews 10:35-38 NIV
