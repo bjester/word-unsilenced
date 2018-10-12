@@ -3,7 +3,6 @@ author = "Blaine Jester"
 categories = ["prayer"]
 date = "2018-10-11T15:55:12-07:00"
 description = "Jesus is at the right hand of God, praying for you"
-draft = true
 image = "/uploads/san-clemente-beach-still-water.jpg"
 slug = "jesus-prays-for-you"
 tags = ["bible", "prayer"]
