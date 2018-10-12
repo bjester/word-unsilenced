@@ -64,16 +64,14 @@ Peter getting out of the safety of the boat, to join Jesus walking on water, mus
 
 I now recognize more than ever that my faith is what will what will endure if I put my focus on Christ, the "author and finisher" of my faith. I did decide to quit my job, a weight that I felt was preventing me from growing my faith, or perhaps just my comfy boat. I stepped in faith into a period of my life where many of my hopes, dreams, and goals were erased to make room for something God wanted for my life. It's been a few months since then, and I can say it hasn't been easy still, but I know that He is provisioning something for me. I know that because He already has.
 
-> So do not throw away your confidence; it will be richly rewarded. You need to persevere so that when you have done the will of God, you will receive what he has promised. For,
->
+> So do not throw away your confidence; it will be richly rewarded. You need to persevere so that when you have done the will of God, you will receive what he has promised. For,  
 > 'In just a little while,  
 > he who is coming will come  
-> and will not delay.'
->
+> and will not delay.'  
 > And,  
 > 'But my righteous one will live by faith.  
 > And I take no pleasure  
-> in the one who shrinks back.'
+> in the one who shrinks back.'  
+> But we do not belong to those who shrink back and are destroyed, but to those who have faith and are saved.
 >
-> But we do not belong to those who shrink back and are destroyed, but to those who have faith and are saved.  
 > Hebrews 10:35-38 NIV
