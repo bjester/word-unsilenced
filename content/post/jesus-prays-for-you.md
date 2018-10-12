@@ -58,7 +58,7 @@ The personal essence of that interaction in Luke is something I never really fel
 
 Peter getting out of the safety of the boat, to join Jesus walking on water, must have seemed absolutely crazy to the other disciples in the boat. On the other hand, when Peter started to make his way out to Jesus, how genuinely powerful it must have been to witness that act of faith. I can only imagine how much that strengthened their faith. Even so, Peter almost drowned! It wasn't a perfect attempt by Peter, because nothing we do ever is. Yet, here I am, reading about this story, feeling absolutely strengthened that Jesus prays for me, that there are times when I will feel I'm stuck in a boat in a storm, but I can always return to Him and make it through.
 
-> Therefore we also, since we are surrounded by so great a cloud of witnesses, let us lay aside every weight, and the sin which so easily ensnares _us,_ and let us run with endurance the race that is set before us, looking unto Jesus, the author and finisher of _our_ faith, who for the joy that was set before Him endured the cross, despising the shame, and has sat down at the right hand of the throne of God.
+> Therefore we also, since we are surrounded by so great a cloud of witnesses, let us lay aside every weight, and the sin which so easily ensnares us, and let us run with endurance the race that is set before us, looking unto Jesus, the author and finisher of our faith, who for the joy that was set before Him endured the cross, despising the shame, and has sat down at the right hand of the throne of God.
 >
 > Hebrews 12:1-2 NKJV
 
