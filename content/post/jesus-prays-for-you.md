@@ -20,13 +20,13 @@ My retrospective investigation was supported by my boss, so when I sent my findi
 
 Eventually, my boss reviewed my findings. Instead of moving forward with the year utilizing its perspective, my boss informed me things were changing. I wasn't being demoted. If I did a terrible job in 2017 and was being disciplined accordingly, I wasn't told that. Instead, my identity as the growth engineer was stripped away and I was back doing some pretty menial web development work.
 
-To say the least, I didn't really understand what was happening. Prior to becoming the growth engineer, I had spent 4 years on the team, and was starting to feel greatly under utilized and under appreciated. So when I was given the new role, it was a great feeling, and a reason to stick around. When it was seemingly taken away, I was understandably confused, depressed, and started looking for new options. It started to show in my work and my attitude. I started to feel like a failure, and with my growing lack of productivity, I started to become stressed. 
+To say the least, I didn't really understand what was happening. Prior to becoming the growth engineer, I had spent 4 years on the team, and was starting to feel greatly under utilized and under appreciated. So when I was given the new role, it was a great feeling, and a reason to stick around. When it was seemingly taken away, I was understandably confused, depressed, and started looking for new options. It started to show in my work and my attitude. I started to feel like a failure, and with my growing lack of productivity, I started to become stressed.
 
 With all of it mounting upon me, I felt my faith starting to become threatened. It was at that time that I started to seek God. Over the past year, not only had my career grown, but so had my faith. I was not alone in feeling that in my church, things were moving and God's hand was building something. My situation was no secret to my friends and family. A friend of mine suggested I listen to a message from Mosaic LA on the story of [Jesus walking on water](https://www.youtube.com/watch?v=SN2rC2JOvjk 'Watch "Second Wind"').
 
 ## The Boat
 
-The Mosaic message had some good perspective. Despite that, I felt there was some missed opportunity to incorporate more of scripture. Growing up in christian schools, memorizing a bible verse nearly every week, scripture has stuck with me, but really only its truth. The memory of verses come to mind as I hear the truth of them retold, but their location and the exact words don't. So I decided to do some digging and connect some of that truth for myself and I sought more inspiration. I went to my church of many years prior, Maranatha Chapel, where I found one video on the story of [Jesus walking on water](https://www.youtube.com/watch?v=7r-C2VEPbWY 'Watch "Get out of the Boat"'). 
+The Mosaic message had some good perspective. Despite that, I felt there was some missed opportunity to incorporate more of scripture. Growing up in christian schools, memorizing a bible verse nearly every week, scripture has stuck with me, but really only its truth. The memory of verses come to mind as I hear the truth of them retold, but their location and the exact words don't. So I decided to do some digging and connect some of that truth for myself and I sought more inspiration. I went to my church of many years prior, Maranatha Chapel, where I found one video on the story of [Jesus walking on water](https://www.youtube.com/watch?v=7r-C2VEPbWY 'Watch "Get out of the Boat"').
 
 Prior to the miracle of Jesus walking on water, Jesus had just fed 5,000 people and His popularity was at a high place. It says, that "when Jesus perceived that they were about to come and take Him by force to make Him king, He departed again to the mountain by Himself alone." ([John 6:15](https://www.biblegateway.com/passage/?search=John+6%3A15&version=NKJV "John 6:15")). The plan, all along, was for Jesus to be king, but he needed to go through the cross in order for that to happen. So when the option to skip the cross presented itself, there was likely some temptation there to avoid the fear and pain and to take the safer option. So what is Jesus's reaction? He goes to be alone on the mountain. In the gospels of [Matthew](https://www.biblegateway.com/passage/?search=Matthew+14%3A23&version=NKJV "Matthew 14:23") and [Mark](https://www.biblegateway.com/passage/?search=Mark+6%3A46&version=NKJV "Mark 6:46"), it says he went there to pray. The greatest resource to Jesus in a time of testing is ours also: prayer.
 
@@ -36,7 +36,7 @@ We know from the gospel of [Mark](https://www.biblegateway.com/passage/?search=M
 >
 > Luke 21:31-32 NKJV
 
-I imagine Jesus prayed for many things up on that mountain. One thing I know though, is that he prayed for the disciples. He prayed for each and every one of them. Later, Jesus predicts Peter’s denial of ever knowing Him. The recount in the gospel of Luke, quoted above, says Jesus prayed for Peter. While Peter's denial of Christ was a pivotal trial for him, it wasn't unlike other storms that came into his life, or our lives for that matter. Up on that mountain, I believe Jesus prayed for Peter then also. 
+I imagine Jesus prayed for many things up on that mountain. One thing I know though, is that he prayed for the disciples. He prayed for each and every one of them. Later, Jesus predicts Peter’s denial of ever knowing Him. The recount in the gospel of Luke, quoted above, says Jesus prayed for Peter. While Peter's denial of Christ was a pivotal trial for him, it wasn't unlike other storms that came into his life, or our lives for that matter. Up on that mountain, I believe Jesus prayed for Peter then also.
 
 I believe the English translation of Luke 21:31-32 misses a powerful takeaway. In English, we rely on context for the meaning of the word "you." The word could have both a plural and singular meaning. In Greek, there is a clear distinction between a plural and singular "you." In the Greek of the passage, when Jesus says, "Satan has asked for you," He is actually using a plural "you." In English, we do have an informal plural form of "you." Here is the passage altered with that to convey the difference:
 
@@ -67,19 +67,14 @@ I now recognize more than ever that my faith is what will what will endure if I 
 
 > So do not throw away your confidence; it will be richly rewarded. You need to persevere so that when you have done the will of God, you will receive what he has promised. For,
 >
-> ‘In just a little while,
+> 'In just a little while,  
+> he who is coming will come  
+> and will not delay.'
 >
->     he who is coming will come
->
->     and will not delay.’
->
-> And,
->
-> ‘But my righteous one will live by faith.
->
->     And I take no pleasure
->
->     in the one who shrinks back.’
+> And,  
+> 'But my righteous one will live by faith.  
+> And I take no pleasure  
+> in the one who shrinks back.'
 >
 > But we do not belong to those who shrink back and are destroyed, but to those who have faith and are saved.  
 > Hebrews 10:35-38 NIV
