@@ -3,7 +3,6 @@ author = "Blaine Jester"
 categories = ["heart"]
 date = "2018-10-15T14:16:58-07:00"
 description = "Will God provision the desires of my heart?"
-draft = true
 image = "/uploads/mount-maunganui-new-zealand.jpg"
 slug = "desirable-fulfillments"
 tags = ["heart", "sin", "flesh"]
@@ -55,5 +54,3 @@ If Jesus is our example, we shouldn't forget His declaration of "Thy will be don
 ## Receipt
 
 All of this I know, but does this mean I live by the Spirit only? No, I still struggle with the lusts of my flesh. I'm not perfect, and while I could never fulfill my new heart's desires on my own, it doesn't stop me from trying. I need to take a step back and act with the love that God has given me, and perhaps when I do that, I will be surprised by the result.
-
-Have you ever told yourself certain things that, later, you have reflected on and realized they were untrue? Or perhaps saw through those statements and saw the issue, pain, and/or fear below them? I certainly have. I have told myself that "I'll be fine" when in reality I wasn't fine. I have told myself that 
