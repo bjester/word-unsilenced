@@ -43,5 +43,6 @@ fields:
   name: image
   label: Image
 pages:
+- content/post/the-inhabitable-world.md
 - content/post/desirable-fulfillments.md
 - content/post/jesus-prays-for-you.md
