@@ -18,4 +18,12 @@ Last week, one of my friends hosted a prayer group focused on silent contemplati
 
 That morning, I saw a news report on a disease killing trees known by the Maori as kauri. Among the most ancient forests in the world, the kauri are the largest trees on New Zealand, and have special meaning to the Maori. The disease is spread mostly by hikers walking on or very near infected kauri, then transferring it to other kauri by stepping on their roots. The New Zealand government, urged by the Maori, established foot washing stations on trails throughout the affected forests. The issue reached such a tipping point that the Maori decided to declare an unofficial sacred embargo on the hardest hit Waitakere area. They asked that people refrain from recreating in the area or otherwise to strictly follow the rules and wash their boots frequently.
 
+> To Adam he said, "Because you listened to your wife and ate fruit from the tree about which I commanded you, 'You must not eat from it,'
+>
+> "Cursed is the ground because of you;  
+>   through painful toil you will eat food from it  
+>   all the days of your life."
+>
+> Genesis 3:17
+
 It just so happened that the area I planned to head was straight into the Waitakere ranges. I heavily considered avoiding a hike to a waterfall that I found on a map. 
