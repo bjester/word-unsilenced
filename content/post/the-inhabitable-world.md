@@ -3,7 +3,6 @@ author = "Blaine Jester"
 categories = []
 date = "2018-10-22T14:00:19-07:00"
 description = "There's a quiet place where life goes on without intervention"
-draft = true
 image = "/uploads/mercer-bay-overlook-piha-beach.jpg"
 slug = "heart-garden"
 tags = ["heart", "life", "purpose", "garden"]
@@ -14,7 +13,7 @@ I've wanted to visit New Zealand ever since I first laid eyes on pictures reflec
 
 ## In the Silence
 
-Last week, one of my friends hosted a prayer group focused on silent contemplative prayer. During the 20+ minutes of silence, I tried to quiet my mind -- my internal dialogue such that my mind focused on silence. It brought me back to an experience I had in New Zealand. My last day there, I made a trip to the west side of the north island. I had spent most of my time on the east side, so I was interested in seeing the more rugged west side.
+Last week, one of my friends hosted a prayer group focused on silent contemplative prayer. During the 20+ minutes of silence, I tried to quiet my mind, specifically my internal dialogue, such that my mind focused on silence. It brought me back to an experience I had in New Zealand. My last day there, I made a trip to the west side of the north island. I had spent most of my time on the east side, so I was interested in seeing the more rugged west side.
 
 That morning, I saw a news report on a disease killing trees known by the Maori as kauri. Among the most ancient forests in the world, the kauri are the largest trees on New Zealand, and have special meaning to the Maori. The disease is spread mostly by hikers walking on or very near infected kauri, then transferring it to other kauri by stepping on their roots. The New Zealand government, urged by the Maori, established foot washing stations on trails throughout the affected forests. The issue reached such a tipping point that the Maori decided to declare an unofficial sacred embargo on the hardest hit Waitakere area. They asked that people refrain from recreating in the area or otherwise to strictly follow the rules and wash their boots frequently.
 
@@ -32,9 +31,9 @@ It just so happened that the area I planned to head was straight into the Waitak
 >
 > Charles Spurgeon
 
-After I finished the hike, I drove to nearby Piha Beach. It was a prime beach day for many Kiwis -- a warm, sunny Sunday in December on one of the first summer weekends in the southern hemisphere. Piha beach is a wide flat opening between the hilly ranges of the Waitakere, featuring beautiful black sand that shines like a mirror when wet. I grabbed some snacks and walked over the dune from the car park to the beach. As I walked toward the water, I longed to free my feet from my hiking boots and air them after my lengthy hike through the jungle. I touched the sand with my hand, and having determined that it was cool enough to walk bare foot, took off my boots. I quickly regretted the decision.
+After I finished the hike, I drove to nearby Piha Beach. It was a prime beach day for many Kiwis -- a warm, sunny Sunday in December on one of the first summer weekends in the southern hemisphere. Piha beach is a wide flat opening between the hilly ranges of the Waitakere, featuring beautiful black sand that shines like a mirror when wet. I grabbed some snacks and walked over the dune from the car park to the beach. As I walked toward the water, I longed to free my feet from my hiking boots and air them after my lengthy hike through the jungle. I touched the sand with my hand, and having determined that it was cool enough to walk barefoot, took off my boots. I quickly regretted the decision.
 
-As I walked toward the water barefoot, my feet felt like I was walking on lava. I started walking faster, hoping to reach the coolness of wet sand near the water, but the beach was long and wide. I plopped down, feet in the air, feeling like a total idiot. In my head, I felt the eyes of the locals on me and imagined them laughing at my foolishness. I put my boots back on and continued my walk to the water. When I was sure the sand was cool enough, I took my boots off once again. The damage had been done though. My feet stung from my fire walk across the sand and my hike previously. Nevertheless, the cool ocean water felt amazing on my feet.
+As I walked toward the water barefoot, it felt like I was walking on lava. I started walking faster, hoping to reach the coolness of wet sand near the water, but the beach was long and wide. I plopped down, feet in the air, feeling like a total idiot. In my head, I felt the eyes of the locals on me and imagined them laughing at my foolishness. I put my boots back on and continued my walk to the water. When I was sure the sand was cool enough, I took my boots off once again. The damage had been done though. My feet stung from my fire walk across the sand and my hike previously. Nevertheless, the cool ocean water felt amazing on my feet.
 
 > Brothers and sisters, think of what you were when you were called. Not many of you were wise by human standards; not many were influential; not many were of noble birth. But God chose the foolish things of the world to shame the wise; God chose the weak things of the world to shame the strong.
 >
@@ -42,10 +41,30 @@ As I walked toward the water barefoot, my feet felt like I was walking on lava. 
 
 I had one more stop planned for the day. In my reconnaissance of the area on Google Maps, I had found a trail in the hills near Piha that led to a cliffs lookout. I drove down the dirt road toward the trail head contemplating whether I was ready for more walking. I decided I would take a short walk down the trail to see what could be seen. It was there that I found a spot to sit and rest. That spot and its silence was so powerful, I recalled it while in contemplative prayer last week. Numerous times I have revisited that memory.
 
-I sat and looked down towards Piha, seeing a little strip of beach where I had walked foolishly barefoot for a few moments. Where I sat, I felt the presence of God. The wind blew onshore, rustling the grass and trees. The sun shone on the brilliant blue water and the distant sound of crashing waves could be heard occasionally. The wondrous song of New Zealand birds rang in the midst of it all. It was peaceful. It was beautiful. I felt God's creation alive.
+I sat and looked down towards Piha, seeing a little strip of beach where I had walked foolishly barefoot for a few moments. Where I sat, I felt the presence of God. The wind blew onshore, rustling the grass and trees. The sun shone on the brilliant blue water and the distant sound of crashing waves could be heard occasionally. The wondrous song of New Zealand birds rang in the midst of it all. It was peaceful. It was beautiful. I felt God's creation alive. I imagined God looking down at me as I walked across the hot sand. I didn't imagine that He laughed. Instead, I imagined an invitation that I was too busy to hear.
 
 In that moment, my thoughts cleared and I knew regardless of whatever happened,  whatever was going on in some other place of the world or back home, that spot where I was sitting would exist absent of any man or woman. Life goes on and God's faithfulness never fails. God initially placed mankind in the Garden of Eden. I think that reflects His nature as a gardener and caretaker. Earthly things changed, but it hasn't changed God. He still wants to be a gardener, just a gardener of our hearts.
 
 > For no good tree bears bad fruit, nor again does a bad tree bear good fruit, for each tree is known by its own fruit. For figs are not gathered from thornbushes, nor are grapes picked from a bramble bush. The good person out of the good treasure of his heart produces good, and the evil person out of his evil treasure produces evil, for out of the abundance of the heart his mouth speaks.
 >
 > Luke 6:43-45 ESV
+
+## Be Like a Tree, and Grow
+
+By the end of my New Zealand trip, I was fairly lonely. I had spent a week on my own, exploring a place half a world away from home. Yet, surprisingly, my most powerful experience of the trip occurred on my last day, on my last planned stop, when I was at my end. That experience has been more powerful since I left it. It's a reminder that God is far above my troubles. Somewhere, there's a place of rest where God resides. Jesus is our living tree from which we should spread, in a garden tended by God, suited for His purpose and glorifying Him in its presence.
+
+> "Study this story of the farmer planting seed. When anyone hears news of the kingdom and doesn’t take it in, it just remains on the surface, and so the Evil One comes along and plucks it right out of that person’s heart. This is the seed the farmer scatters on the road.
+>
+> "The seed cast in the gravel—this is the person who hears and instantly responds with enthusiasm. But there is no soil of character, and so when the emotions wear off and some difficulty arrives, there is nothing to show for it.
+>
+> "The seed cast in the weeds is the person who hears the kingdom news, but weeds of worry and illusions about getting more and wanting everything under the sun strangle what was heard, and nothing comes of it.
+>
+> "The seed cast on good earth is the person who hears and takes in the News, and then produces a harvest beyond his wildest dreams."
+>
+> Matthew 13:18-23 MSG
+
+It's a constant struggle for me to move beyond the worry, wants and struggles of the moment. I desperately want to let God's word take hold. It requires a lot of diligence, prayer, and action. We can't be idle expecting God to make us into tree that is fruitful. It requires as much as ourselves as our reliance on God. We're constantly up against fire, wind, and anything that will strip our roots or the seed in our hearts away. We can find peace in this process. If we're willing, we can rest our hearts in God's garden.
+
+> Do not be deceived: God cannot be mocked. A man reaps what he sows. Whoever sows to please their flesh, from the flesh will reap destruction; whoever sows to please the Spirit, from the Spirit will reap eternal life. Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up. Therefore, as we have opportunity, let us do good to all people, especially to those who belong to the family of believers.
+>
+> Galatians 6:7-10 NIV 
